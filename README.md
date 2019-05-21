@@ -9,7 +9,7 @@ Discuss the result of all the analysis (assignments 0 and 1) in a written report
 The final version of the report (in .pdf format) must be uploaded on course Moodle (one submission per group). 
 
 ## Report Discussion
-The project must be submitted within the September exam session.
+The project must be submitted *within* the winter exam session.
 All students that passed the written exam and submitted a project report are admitted to the oral discussion.
 
 Discussions will take place under appointment, not earlier than 3 days after the report submission.
